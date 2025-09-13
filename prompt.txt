@@ -1,0 +1,8 @@
+💡 Project Idea: Digital Platform for Preserving and Marketing Tribal Art and Crafts
+Problem Statement:
+Tribal art is undervalued, undocumented, and lacks marketing reach. Local artisans struggle to find customers.
+Proposed Solution:
+Create a digital platform to showcase, preserve, and market tribal crafts online.
+Impact:
+Helps tribal artists sell their work, gain visibility, and keep cultural traditions alive.
+pelase sove my hackthon problem stetment using html css js and php
